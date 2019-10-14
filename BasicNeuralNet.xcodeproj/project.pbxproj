@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		B5094784235494F900AD3658 /* BasicNeuralNet */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BasicNeuralNet; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5094787235494F900AD3658 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B5DFC6132354BD6B00A6A276 /* data.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = data.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				B5094787235494F900AD3658 /* main.cpp */,
+				B5DFC6132354BD6B00A6A276 /* data.txt */,
 			);
 			path = BasicNeuralNet;
 			sourceTree = "<group>";
